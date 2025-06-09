@@ -30,6 +30,21 @@ header{
     height: 50px;
 }
 
+header{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding-left: 20px;
+
+
+    margin-bottom: 10px;
+
+
+    background-color: rgba(152, 149, 149, 0.568);
+    width: auto;
+    height: 50px;
+}
+
 header>nav{
     display: flex;
     align-items: center;
@@ -53,7 +68,7 @@ nav>a{
 }
 
 nav>a:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(246, 246, 252);
 }
 
 .jogo{

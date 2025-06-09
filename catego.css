@@ -7,7 +7,7 @@
 header{
     display: flex;
     align-items: center;
-    gap: 250px;
+    gap: 100px;
     padding-left: 20px;
 
 
@@ -15,6 +15,7 @@ header{
 
 
     background-color: rgba(152, 149, 149, 0.568);
+    width: auto;
     height: 50px;
 }
 
@@ -41,7 +42,7 @@ nav>a{
 }
 
 nav>a:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(246, 246, 252);
 }
 
 body{
